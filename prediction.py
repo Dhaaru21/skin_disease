@@ -106,7 +106,3 @@ plt.title('Confusion Matrix for Skin Disease Prediction')
 plt.xlabel('Predicted')
 plt.ylabel('Actual')
 plt.show()
-
-
-
-
